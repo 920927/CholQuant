@@ -1,0 +1,1 @@
+python fig1.py --visualize
